@@ -1,9 +1,9 @@
-### About Me
+## About Me
 I'm Ronak Agarwal, a junior computer science undergraduate with a business minor at the University of Maryland, College Park. This profile contains some of the personal projects I have worked on over the past year with a focus on financial technology, machine learning, and web development. 
 
-### Projects
+## Projects
 
-#### 1. Fixed Interest Rate Investment Comparison
+### 1. Fixed Interest Rate Investment Comparison
 
 <!--
 **RonakAgarwal/RonakAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
