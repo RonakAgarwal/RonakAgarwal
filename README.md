@@ -9,7 +9,7 @@ This project initially started as a simple analysis used to find the most invest
 
 ### 2. International Fixed Rate Investment Analysis
 
-One of the things I noticed when travelling to India with my family is that the interest rate on fixed rate deposits over there are much much higher than the interest rates for similar investments (Certificate of Deposit) in America. Since I am an OCI (Overseas Citizen of India) card holder, I was intrigued by this as I could probably make a fair bit of money from investing in Indian banks in the future. However, I was skeptical of this as the exchange rate between the US Dollar and Indian rupee is and has been steadily changing in favor of the dollar over time. 
+One of the things I noticed when travelling to India with my family is that the interest rate on fixed rate deposits over there are much much higher than the interest rates for similar investments (Certificate of Deposit) in America. Since I am an OCI (Overseas Citizen of India) card holder, I was intrigued by this as I could probably make a fair bit of money from investing in Indian banks in the future. However, I was skeptical as the exchange rate between the US Dollar and Indian Rupee is and has been steadily changing in favor of the dollar over time. 
 
 Because of this, I made an analysis using a machine learning regression model to predict the future exchange rate between the Rupee and the Dollar, and compared the investments over a 10 year period of time to see which would yield greater returns. Interestingly enough, the investment in India was predicted to have a much greater yield than the investment in America. 
 
