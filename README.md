@@ -1,5 +1,5 @@
 ## About Me
-I'm Ronak Agarwal, a junior computer science undergraduate with a business minor at the University of Maryland, College Park. This profile contains some of the personal projects I have worked on over the past year with a focus on financial technology, machine learning, and web development. 
+I'm Ronak Agarwal, a junior computer science undergraduate with a business minor at the University of Maryland, College Park. This profile contains some of the personal projects I have worked on over the past year with a focus on financial technology, data science, machine learning, and web development. 
 
 ## Projects
 
