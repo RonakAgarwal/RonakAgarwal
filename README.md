@@ -5,7 +5,7 @@ I'm Ronak Agarwal, a junior computer science undergraduate with a business minor
 
 ### 1. Single Family Home Investment Tool
 
-This project initially started as a simple analysis used to find the most investable single family homes in the greater metropolitan area of my hometown - Charlotte, North Carolina. I eventually decided to expand it to a web tool in which any potential investor can enter their location and desired investment requirements and get a similar analysis for their own use. The application uses a real estate API via python to source single family housing data for any area and sorts the results by the ratio of the expected rent price to the listing price of the house. This essentially lets investors see which houses in their area would give them the best return for their money. The application also includes a map with the houses displayed on it, and pictures of the houses from their individual listings. 
+A simple analysis used to find the most investable single family homes in the greater metropolitan area of my hometown - Charlotte, North Carolina. Used a real estate API via python to source single family housing data for any area and sorted the results by the ratio of the expected rent price to the listing price of the house. This essentially shows which houses in the area would give the best return on investment. The analysis also includes a map with the houses displayed on it, and pictures of the houses from their individual listings. 
 
 ### 2. International Fixed Rate Investment Analysis
 
